@@ -1,0 +1,16 @@
+{
+    "name": "sweden-pnr",
+    "description": "a simple cli to generate and validate personal number",
+    "version": "1.0.0",
+    "author": {
+        "name": "Liangxiong Zhu",
+        "email": "lxzhu@outlook.com"
+    },
+    "bin": {
+        "sweden-pnr": "pnr.js"
+    },
+    "dependencies": {
+        "commander": "^2.19.0"
+    },
+    "license": "MIT"
+}
